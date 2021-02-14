@@ -1,0 +1,13 @@
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.exe
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.deps.json
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.runtimeconfig.json
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.runtimeconfig.dev.json
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.dll
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\bin\Debug\netcoreapp3.0\TheWorstCode.pdb
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.csprojAssemblyReference.cache
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.AssemblyInfoInputs.cache
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.AssemblyInfo.cs
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.dll
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.pdb
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\source\repos\TheWorstCode\TheWorstCode\obj\Debug\netcoreapp3.0\TheWorstCode.genruntimeconfig.cache

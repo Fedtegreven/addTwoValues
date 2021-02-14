@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVCBQjxXkyGt7MHt3uQPM/0TlzlAjA8FIOsnsxJzZEZtXs/6NCJYCwZteL3/MyHRW6/J97VV7gc8aw0Ni27Rwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jakob\\source\\repos\\TheWorstCode\\TheWorstCode\\TheWorstCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jakob\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jakob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Jakob\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
